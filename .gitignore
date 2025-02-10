@@ -1,3 +1,5 @@
 LogisticRegression&MLP/data
 vae/data
 CNN/data
+gan/data
+gan/checkpoints
